@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/img8617"
+    android:orientation="vertical"
+    tools:context="com.example.hamabetomomi.change.AnalyzeActivity"
+    android:weightSum="1">
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="105dp"
+        android:layout_height="wrap_content"
+        android:text="アドバイス" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="serif"
+        android:text="理想　　　　あなた"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textColor="@android:color/black"
+        android:textStyle="bold|italic"
+        android:visibility="visible" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="230dp"
+        android:layout_margin="0dp"
+        android:layout_marginBottom="0dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginRight="0dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="0dp"
+        android:orientation="horizontal"
+        android:layout_weight="0.58">
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="192dp"
+            android:layout_height="245dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginEnd="0dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginRight="0dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="0dp"
+            app:srcCompat="@drawable/hirose_suzu"
+            tools:layout_editor_absoluteX="20dp"
+            tools:layout_editor_absoluteY="37dp" />
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="210dp"
+            android:layout_height="247dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginEnd="0dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginRight="0dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="0dp"
+            app:srcCompat="@drawable/hikaru"
+            tools:layout_editor_absoluteX="160dp"
+            tools:layout_editor_absoluteY="33dp" />
+
+    </LinearLayout>
+
+    <Space
+        android:layout_width="318dp"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="　 類似度   ３５％！！"
+        android:textAllCaps="true"
+        android:textColor="@android:color/holo_red_light"
+        android:textSize="36sp"
+        android:textStyle="italic" />
+
+    <CheckBox
+        android:id="@+id/checkBox4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="コンタクト" />
+
+    <CheckBox
+        android:layout_width="86dp"
+        android:layout_height="wrap_content"
+        android:text="顔痩せ" />
+
+    <CheckBox
+        android:id="@+id/checkBox5"
+        android:layout_width="131dp"
+        android:layout_height="wrap_content"
+        android:text="目をぱっちり" />
+
+    <CheckBox
+        android:id="@+id/checkBox6"
+        android:layout_width="131dp"
+        android:layout_height="wrap_content"
+        android:text="ショートヘア" />
+
+    <CheckBox
+        android:id="@+id/checkBox7"
+        android:layout_width="113dp"
+        android:layout_height="wrap_content"
+        android:text="眉毛カット" />
+
+</LinearLayout>

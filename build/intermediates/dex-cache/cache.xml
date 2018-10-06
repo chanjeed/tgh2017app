@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/hamabetomomi/.android/build-cache/af1f8983f307bada729edae2f761807dbf33adb6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/hamabetomomi/Downloads/TabTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_678513112cefcd3543a5dcbc9b336005bc182d55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hamabetomomi/.android/build-cache/60898f716ebcb2ff8e2aaad835a596b76d4cdedf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/hamabetomomi/Downloads/TabTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_179410c3099080dcb8cc0781c6da5a2dfa0f5ba3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hamabetomomi/.android/build-cache/1b089bee3daa48861e77414ac47dc7a17faf8338/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/hamabetomomi/Downloads/TabTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_32bfea81e46cf48a45fc8be6598858eac5d9fa92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hamabetomomi/Downloads/TabTest/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4fa92f35cf333cd359706895b62656ee7748aff5">
+        <dex dex="/Users/hamabetomomi/Downloads/TabTest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3ebd51fb70611266fa9ab531902d83710ce9c68c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hamabetomomi/Downloads/TabTest/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/hamabetomomi/Downloads/TabTest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_419267a2143e97eaae2889d5b406010db00e2948/classes.dex" />
+    </item>
+
+</items>
